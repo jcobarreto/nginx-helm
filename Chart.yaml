@@ -1,0 +1,13 @@
+apiVersion: v2
+name: nginx
+description: Nginx chart
+type: application
+version: 0.2.0
+appVersion: "1.19.9"
+keywords:
+  - nginx
+  - webserver
+home: https://github.com/jcobarreto/nginx-helm
+maintainers:
+  - name: Julio Cesar Barreto
+    email: julio.barreto@gmail.com
